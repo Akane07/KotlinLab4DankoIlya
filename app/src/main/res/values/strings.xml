@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+    <string name="home_title">Home Fragment</string>
+    <string name="dashboard_title">Dashboard Fragment</string>
+    <string name="notifications_title">Notifications Fragment</string>
+    <string name="profile_title">Profile Fragment</string>
+    <string name="home_note">The fragment is declared in mobile_navigation.xml and drawn with ComposeView.</string>
+    <string name="dashboard_note">BottomNavigationView is connected to NavController in MainActivity.</string>
+    <string name="notifications_note">The screen text comes from ViewModel through LiveData.</string>
+    <string name="profile_note">This is the new fragment opened by the added Profile button.</string>
+</resources>
